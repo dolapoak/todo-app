@@ -1,4 +1,31 @@
-# React + Vite
+NERD ASSESTMENT
+AKIINKUNLE DOLAPO
+This is a React + Vite for a TODO-LIST
+
+✅ Functional Components
+
+function App() {}
+
+✅ Hooks
+
+useState()
+useEffect()
+
+✅ Add Todo
+
+addTodo()
+
+✅ Delete Todo
+
+deleteTodo()
+
+✅ Mark Complete
+
+toggleTodo()
+
+✅ localStorage
+
+localStorage.setItem(...)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
